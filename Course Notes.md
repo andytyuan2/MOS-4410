@@ -108,3 +108,60 @@
     - Attainable: do you have enough resources for your goal? what will you do if you don't at the moment?
     - Relevant
     - Time-bound: when should it be done by?
+    
+## Week 2: 
+
+### Lecture 2: 
+
+**Porter's five forces model**
+
+- Analyses industry attractive levels today
+- Five competitive forces
+    1. Threat of new entrants
+        - if not many, why would there be not many?
+            - Cost of start-up, storage, storefronts
+        - if a lot, why is it so easy to join?
+    2. Bargaining power of customers
+        - comes from choice
+        - low switching costs is bad, high bargaining power
+        - high switching costs is good, low bargaining power
+        - customers can effect products when they have a large opinion
+    3. Threat of new substitutes
+        - Substitutes are NOT competition
+        - amazon may be a substitute for Walmart stores
+    4. Bargaining power of suppliers
+        - how much power of the supply does a supplier have?
+        - If the supplier controls the supply of goods, then it is a bad thing
+        - If there are many suppliers, it is easy to switch
+    5. Competitive rivalry within the industry
+        - If there are large players, it might be hard to join
+- Companies can use other tactics to bring in new customers after deciding if they should enter
+    - financial
+    - marketing
+    - products or benefits
+    
+**Product life cycles and driving forces**
+        
+- Introduction
+    - product branding and quality is established
+    - pricing may be low penetration
+    - distribution is selective
+    - promotion is aimed at innovators and early adopters
+- Growth
+    - product quality is maintained and additional features
+    - pricing is maintained as the firm enjoys increasing demand with little competition
+    - distribution channels are added as demand increases
+    - promotion is aimed at a broader audience
+- Maturity
+    - product may be enhanced to differentiate
+    - pricing may be lower from competition
+    - distribution becomes more intensive
+    - promotion emphasizes product differentiation
+- Decline
+    - maintain product, possibly rejuvenate it
+    - reduce costs and continue to market to niche audiences
+    - discontinue and liquidate the remaining inventory
+    
+**PEST and PESTEL**
+
+Political, economic, social, technological forces (PEST), ethical, legal (PESTEL)
