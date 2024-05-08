@@ -123,7 +123,10 @@
         - if a lot, why is it so easy to join?
     2. Bargaining power of customers
         - comes from choice
-        - low switching costs is bad, high bargaining power
+        - low switching costs is bad, high bargaining power is when:
+            - customers could also produce the product themselves
+            - product is not of strategical importance for customer
+            - customer knows of the costs of the product
         - high switching costs is good, low bargaining power
         - customers can effect products when they have a large opinion
     3. Threat of new substitutes
@@ -132,6 +135,10 @@
     4. Bargaining power of suppliers
         - how much power of the supply does a supplier have?
         - If the supplier controls the supply of goods, then it is a bad thing
+            - Particularly when:
+                - buying industry is more profitable than the supplying industry: supplier may look to integrate forwards
+                - economies of scale are provided for suppliers who integrate forwards
+                - buying industry has low barrier to entry
         - If there are many suppliers, it is easy to switch
     5. Competitive rivalry within the industry
         - If there are large players, it might be hard to join
@@ -139,6 +146,50 @@
     - financial
     - marketing
     - products or benefits
+    
+**Insights from the five forces model**
+
+- Static analysis
+    - understanding the present situation
+- dynamic analysis
+    - looking at changes over time
+    - past, potential changes
+- analysis of options
+
+**Ways to reduce the bad of the five forces**
+
+*Reducing the bargaining power of suppliers*
+
+- partnering
+- supply chain management
+- take over a supplier
+- improve relationships
+
+*reducing bargaining power of customers*
+
+- partnering
+- increase loyalty
+- increase incentives and value add
+- move purchase decision away from price
+
+*reducing threat of new entrants*
+
+- patents
+- increase customer loyalty
+- retaliation tactics
+
+*reducing threat of substitutes*
+
+- legal action
+- alliances
+- accentuate either real or perceived differences
+
+**criticism of the five forces model**
+
+- assumes a perfect market
+- regulation limits the model
+- best for simple markets
+- bad for collaborative markets
     
 **Product life cycles and driving forces**
         
@@ -164,4 +215,44 @@
     
 **PEST and PESTEL**
 
-Political, economic, social, technological forces (PEST), ethical, legal (PESTEL)
+Political, economic, societal/social, technological forces (PEST), environmental, legal (PESTEL)
+
+- Uses info about external environment to identify which areas represent opportunities or threats
+
+*Political*
+
+- gov't
+- tariffs
+- trade control
+- freedom of press
+- corruption
+- regulation
+- laws
+
+*economic*
+
+- growth rates
+- inflation rate
+- interest rate
+- labor costs
+- business cycle stage
+- monetary and fiscal policies
+- disposable income
+
+*social/societal*
+
+- education level
+- attitude towards work, leisure, career
+- buying habits
+- religion
+- social classes
+- minorities
+
+*technology*
+
+- infrastructure
+- rate of change in tech
+- communication standard
+- access to new tech
+- legislation regarding tech
+- tech incentives
