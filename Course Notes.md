@@ -256,3 +256,138 @@ Political, economic, societal/social, technological forces (PEST), environmental
 - access to new tech
 - legislation regarding tech
 - tech incentives
+
+
+## Week 3: 
+
+### Lecture 1: diversification and global strategies
+
+**Related diversification**
+
+- Two involved businesses have meaningful commonalities, which provides synergies based on the exchange of skills or resources
+- Improved ROI based on increased revenues or decreased costs because of commonalities
+- Exchange or shared skills or assets which exploits:
+    - Brand name
+    - marketing skills
+    - service operation
+        - Pepsi buying Sodastream to diversify within the industry
+    - Research and development and new product capability
+    - excess capacity
+    - economies of scale: more stuff you make, the more money you make
+- Good example is Apple creating an entire ecosystem that works together seamlessly
+
+**Unrelated diversification**
+
+- Allows for cash flows to be more consistent
+    - a seasonal company can acquire a non-seasonal one so their cash flows are good during most if not all months
+- Firm restructuring can be done to reduce risk or make something more efficient, can be done to hedge if something falls
+-  Defending against a takeover
+- Vertical integration
+    - Buying up suppliers or distribution
+- providing executive interest
+
+
+**Three tests for diversification**
+
+1. How attractive is the industry that a firm is considering entering? 
+    - Unless profits are almost guaranteed, it may be risky to enter
+2. How much will it cost to enter the industry? 
+    - Expenses related to diversifying must be absorbed by the business
+3. Will the new unit and the firm be better off? 
+    - Unless one side gains a competitive advantage, diversification should be avoided.
+    
+*Pepsi as an example*
+
+- Pepsi buys sodastream for $3.2 Billion
+    - It is a RELATED diversification
+    - Sales are growing, so it looks like it is an attractive
+    - Costs only $3.2 billion for pepsi, which is a small sum
+    - Will be better off as they expand the product line
+    
+**Global strategies**
+
+- Pressure from the local areas you want to expand to
+    - consumer tastes and preferences
+    - infrastructure
+    - local laws
+- pressure for cost reductions
+    - commodity type products should reduce costs since it is available everywhere, high consumer strength
+    - universal needs of customers
+    - competitors also do low cost
+
+- Global strategy: high cost reduction pressure, low local pressure
+    - Soft drinks
+- Transnational strategy: high cost reduction pressure, high local pressure
+    - Cars 
+- International strategy: low cost reduction pressure, low local pressure
+    - Pharmaceuticals that have patents
+- Multi-domestic strategy: low cost reduction pressure, high local pressure
+    - Law or accounting firm
+    
+**Entry Strategies**
+
+Ordered from least to most amount of commitment, control, risk, and profit potential
+
+- Licensing
+    - Fast and cheap
+    - Could be made poorly, which reflects poorly on the brand
+- Exporting
+    - Expensive to ship contents overseas
+- Franchising
+    - reoccurring revenue
+    - bad franchisees can happen
+- Contract manufacturing
+- Joint venture and strategic alliances
+    - pool of skill sets
+    - different cultural values when you go international can exist
+- Foreign direct investment
+    - carries all the risk yourself
+    
+### Lecture 2: key success factors
+
+**Fixed and variables costs**
+
+- Fixed costs don't change
+    - Rent, utilities, marketing
+- variable costs
+    - go up as a result of volume, typically are raw materials
+    - commission
+
+**break even analysis**
+$$
+\frac{Fixed}{\frac{revenue}{unit} - \frac{variable}{unit}}
+$$
+
+- used to examine impact of raising profits, lowering fixed or variable costs
+
+**Profit pools**
+
+- Where the industry could potentially make money
+    - Charted profit pool: If market is new to you but exists
+    - New and uncharted profit pools: New market for everyone
+- Examples of profit pools
+    - Automakers
+        - Core: auto manufacturing
+        - Highest ROI: leasing, insurance, service
+    - Elevators
+        - core: elevators
+        - highest: service, repairs
+
+**Key Success factors in an industry**
+
+*Important to choose only 5-6 of these questions*
+
+1. What important market trends are happening now?
+    - Growth? Cycles? Innovations?
+2. How important are our existing and new customers to our business?
+    - 80% of money comes from 20% of customers
+3. Why have competitors grown to the position that they now hold?
+4. What are the largest cost areas of the business?
+5. how important is research and development and market innovation?
+6. Is our business capital intensive?
+7. What worker and management skills are particularly crucial?
+8. How important are sudden movements in currency and tax to the business?
+9. How important is quality to our business? How do we and competitors maintain our quality?
+10. How important is location to our business? Do we need to be in a special location? How do we compare with competition locations?
+
+# Why don't companies have high cost and lots of locations? Or why do companies not have few locations with low cost?
