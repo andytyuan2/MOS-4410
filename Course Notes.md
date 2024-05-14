@@ -391,3 +391,55 @@ $$
 10. How important is location to our business? Do we need to be in a special location? How do we compare with competition locations?
 
 # Why don't companies have high cost and lots of locations? Or why do companies not have few locations with low cost?
+
+## Week 4:
+
+### Lecture 1: 
+
+**Porter's Generic Strategies**
+
+- Scope:
+    - Broad (industry)
+    - Narrow (market segment)
+- Advantage:
+    - Low cost
+    - product uniqueness
+- Strategies as a combination:
+    - cost leadership strategy: low cost, broad scope
+        - Eg, Walmart
+    - differentiation strategy: unique product, broad scope
+        - Eg, Apple
+    - Focus strategy (low cost): low cost, narrow scope
+        - Eg, 
+    - Focus strategy (differentiation): unique product, narrow scope
+        - Eg, Ferrari
+    
+    
+**BCG Growth-Share matrix**
+
+- Market Growth
+    - Low, high
+- relative market share
+    - low, high
+    
+1. Question marks: low market share, high market growth rate
+2. Stars: high market share, high market growth rate
+    - Last two usually in intro and growth stages
+3. cash cows: low market growth rate, high market share
+4. dogs: low market share, low market growth rate
+    - 3 and 4 are typically in maturity and later stage in product life cycle
+    
+**Structures in organizations**
+
+- Functional structure
+    - teams do their own thing; marketing, engineering, HR, etc
+    - teams tend to not talk to each other this way
+- Divisional structure
+    - separate, semi-autonomous divisions
+        - eg, divisions within cars like suv, sedans, vans
+    - risks duplication
+        - eg, radios, wheels, tires
+  
+
+
+
