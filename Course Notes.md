@@ -441,5 +441,77 @@ $$
         - eg, radios, wheels, tires
   
 
+## Week 5
+
+### Lecture 1:
+
+**SWOT**
+
+- Strengths and weaknesses are internal
+    - Related to key success factors
+- Opportunities and threats are external to the company, more about the industry
+- If strengths are stronger than the WOT
+    - Focus on giving a recommendation based on the SWOT
+- If WOT is stronger than the strengths
+    - Focus on prioritizing
+    
+![Criteria for Competitive Advantage](C:\Users\Andy Yuan\Downloads\criteria for competitive advantage.png)
 
 
+***Strengths***
+
+- resources and capabilities that can be used to develop a competitive advantage that is sustainable
+    - patents
+    - good reputation among customers
+    - favorable access to distribution networks
+    
+***Weaknesses***
+
+- Absence of strengths or genuine weaknesses
+    - lack of patent protection
+    - high cost structure
+    - lack of access to natural resources/distribution channels
+    
+***Opportunities***
+
+- unfulfilled customer needs
+- arrival of new tech
+- loosening of regulations
+- removal of international trade barriers
+
+***Threats***
+
+- shifts in customer tastes
+- new substitute products
+- new regulations
+- increased trade barriers 
+
+**Sustainable competitive advantages**
+
+1. customer loyalty
+2. location
+3. distribution and information systems
+4. unique merchandise
+5. vendor relations
+6. customer service
+7. multiple source advantages
+    
+
+**Porter's generic value chain**
+
+1. Inbound logistics
+    - receiving and warehousing of raw materials
+    - eg, company contracts, material handling, testing
+2. operations
+    - transforming inputs into finished products
+    - eg, agents, process, maintenance
+3. outbound logistics
+    - warehousing and distribution of finished goods
+    - packaging, communications, material handling
+4. marketing and sales
+    - identification of customer needs and producing content to attract 
+    - advertising
+5. service
+    - support of customers after products and services are sold to them
+    - Distribution, information systems
+6. MARGINS
