@@ -257,6 +257,56 @@ Political, economic, societal/social, technological forces (PEST), environmental
 - legislation regarding tech
 - tech incentives
 
+### week 2 videos:
+
+#### Porter's 5 forces extra notes
+
+- unveils underlying forces behind what is causing profitability in the industry
+
+##### Airlines
+
+- rivalry is intense, low barriers to entry
+- seen as a sexy industry, but it is one of the least profitable industries
+    - instead, suppliers are extremely powerful like boeing, rolls-royce, etc
+
+*The five forces can be applied to any industry, avoids being trapped by trends*
+
+Rivalries
+    - zero sum rivalries mean the customer wins with the least price, but no choice
+    - positive sum rivalries are relevant to customers, companies compete on slightly different products
+
+The framework is strongest when people are aligned together
+
+#### PESTEL analysis extra notes
+
+Used to analyze the external environment facing a business
+
+- political
+    - competition policy
+    - government spending and tax policies
+- economical
+    - interest rates
+    - exchange rates
+    - consumer spending
+- Social
+    - demographic changes in the population
+    - changing lifestyles
+    - impact of pressure groups
+        - ESG, social responsibility
+- technological
+    - disruptive technologies
+        - e-commerce, mobile tech
+    - new production processes
+    - big data, AI, and dynamic pricing
+- Legal: closely related to the political area
+    - employment law
+    - minimum wage
+    - environmental legislation
+- Environmental
+    - sustainability
+    - ethical sourcing
+    - pollution and carbon emissions
+
 
 ## Week 3: 
 
@@ -306,11 +356,11 @@ Political, economic, societal/social, technological forces (PEST), environmental
     
 **Global strategies**
 
-- Pressure from the local areas you want to expand to
+- Pressure to localize
     - consumer tastes and preferences
     - infrastructure
     - local laws
-- pressure for cost reductions
+- pressure for cost reductions/lower costs
     - commodity type products should reduce costs since it is available everywhere, high consumer strength
     - universal needs of customers
     - competitors also do low cost
@@ -354,6 +404,7 @@ Ordered from least to most amount of commitment, control, risk, and profit poten
     - commission
 
 **break even analysis**
+
 $$
 \frac{Fixed}{\frac{revenue}{unit} - \frac{variable}{unit}}
 $$
@@ -390,7 +441,50 @@ $$
 9. How important is quality to our business? How do we and competitors maintain our quality?
 10. How important is location to our business? Do we need to be in a special location? How do we compare with competition locations?
 
-# Why don't companies have high cost and lots of locations? Or why do companies not have few locations with low cost?
+### week 3 videos
+
+#### mcdonald's global and local strategies
+
+1. local tastes and customs are essential to mcdonalds
+    - beef is integral to the taste, but some countries don't have beef
+
+2. local competition 
+    - locales have evolved different fast food
+
+3. local laws
+    - alcohol sales
+
+4. local franchises
+    - local promotions are controlled by the franchisee to incentivize people to create franchisees
+
+5. local people make it their way, food is cooked locally
+
+
+#### key success factors
+
+1. What do customers want?
+2. How do firms compete?
+    - Is it cutthroat or is there more space between the competition?
+3. Are there any death bells?
+    - Is there anything where if you have it, customers won't buy it?
+    
+#### strategic group mapping
+
+used to see who the competition is
+
+- Firms in same strategic group have two or more competitive characteristics in common
+    - have comparable product line
+    - sell in same price range and quality range
+    - use the same product attributes to appeal to similar types of buyers
+    - cover similar geographic areas
+
+Procedure for constructing a strategic group map
+    1. identify competitive characteristics that **DIFFERENTIATE** firms in an industry from one another
+    2. plot firms on a two-variable map using pairs of these differentiating characteristics
+        - eg, price vs breadth of menu
+    3. the closer the firms are to one another on the map, the stronger the competitive rivalry is
+        - direct competitors are within the same general group
+    4. gaps in the mapping might indicate new business opportunities
 
 ## Week 4:
 
@@ -400,7 +494,7 @@ $$
 
 - Scope:
     - Broad (industry)
-    - Narrow (market segment)
+    - Narrow (market segment, low number of product breadth)
 - Advantage:
     - Low cost
     - product uniqueness
@@ -410,24 +504,27 @@ $$
     - differentiation strategy: unique product, broad scope
         - Eg, Apple
     - Focus strategy (low cost): low cost, narrow scope
-        - Eg, 
+        - Eg, easyjet: focused on business clients flying for cheap
     - Focus strategy (differentiation): unique product, narrow scope
         - Eg, Ferrari
     
     
 **BCG Growth-Share matrix**
 
+used for products within a firm
+
 - Market Growth
-    - Low, high
+    - Low and could be negative, high
 - relative market share
     - low, high
     
 1. Question marks: low market share, high market growth rate
 2. Stars: high market share, high market growth rate
-    - Last two usually in intro and growth stages
 3. cash cows: low market growth rate, high market share
 4. dogs: low market share, low market growth rate
-    - 3 and 4 are typically in maturity and later stage in product life cycle
+    
+- first two in intro and growth phases typically
+- last two are in maturity and later stages in product cycle
     
 **Structures in organizations**
 
@@ -440,6 +537,14 @@ $$
     - risks duplication
         - eg, radios, wheels, tires
   
+### week 4 videos
+
+#### porter's generic strategies
+
+- cost leadership
+- differentiation
+    - always incentives to improve since competitors can copy your differences
+- focus
 
 ## Week 5
 
@@ -514,4 +619,72 @@ $$
 5. service
     - support of customers after products and services are sold to them
     - Distribution, information systems
-6. MARGINS
+6. MARGINS, PROFIT
+
+### week 5 videos
+
+#### Blue ocean strategies
+
+- companies should stop competing head on and instead look for wide oceans that make competition irrelevant
+- look to non-customers, not customers; untapped potential that was used
+
+#### disruptive innovation
+
+Disruptive innovation is not a breakthrough, but instead is what happens when you transform a product that was expensive and complicated that only a few had access to it to something that is inexpensive and available
+
+Innovator's dilemma
+
+- Disruptive innovations force you to go after untapped customers for cheaper, instead of making a better product for a better profit
+
+
+## Week 6
+
+### lecture 1: financial performance
+
+*Compound growth rates*
+
+$$
+CAGR = (\frac{end}{beginning})^{1/periods} - 1
+$$
+
+**Walmart review**
+
+- Net sales, net income
+- largest numbers we can find on their financial statements 
+    - should see these numbers and provide value for the customers
+- In analyzing the compound growth rate, net income growth rate being higher than revenue growth rate is good since it shows that you are controlling costs
+    - However, operating cost rate should be lower than revenue growth rate
+    
+
+## Week 7
+
+### Week 7 lectures SOuthwest airlines case:
+
+#### Video 1: Industry
+
+Five forces analysis
+
+- Use high/low to categorize
+    - High is bad, low is good
+
+Some industries will have highly erratic life cycles that go up and down repeatedly
+
+- Positive forces can also be negative forces, these two are not mutually exclusive
+
+Global Strategies
+
+- Matrix of pressure to lower costs and pressure to adapt locally
+
+
+#### Video 2: competition and company analysis
+
+financial analysis should be taken with a grain of salt, because large percent changes may be a result of a completely unrelated activity to service / goods such as buying another company
+
+## Week 8:
+
+### Week 8 lectures
+
+If the vision of the company isn't clearly stated, clarify it
+
+
+
