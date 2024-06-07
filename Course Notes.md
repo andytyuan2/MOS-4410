@@ -688,3 +688,5 @@ If the vision of the company isn't clearly stated, clarify it
 
 
 
+
+
