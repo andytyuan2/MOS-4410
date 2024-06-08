@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # MOS 4410 Course Notes
 
 ## Intro Session:
@@ -150,7 +155,6 @@
 **Insights from the five forces model**
 
 - Static analysis
-    - understanding the present situation
 - dynamic analysis
     - looking at changes over time
     - past, potential changes
